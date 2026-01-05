@@ -13,3 +13,14 @@
 ## Outputs
 
 * vpc_id - Exports vpc_id created
+
+###################################################################################################################################
+
+
+##  IGW : 
+ 
+* VPC component that enables two way communication b/w your private cloud VPC and internet.
+
+* Enables Internet Access:         Connects your VPC to the public internet. 
+
+* Two-Way Traffic:                 Allows both inbound (from internet to VPC) and outbound (from VPC to internet) communication. 
