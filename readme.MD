@@ -12,4 +12,4 @@
 
 ## Outputs
 
-* vpc_id - Exports vpc_id created .
+* vpc_id - Exports vpc_id created
